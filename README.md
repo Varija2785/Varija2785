@@ -60,4 +60,4 @@ Payment management application focused on transaction tracking, risk analysis, a
 
 ## 🤝 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/varija-paladugu-3b3437330/)
